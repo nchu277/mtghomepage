@@ -1,0 +1,108 @@
+.ui.topmenu.fixed.menu {
+  background-color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  border-bottom-color: white;
+}
+.drop.text {
+   color: #fff;
+   font-family: 'Open Sans', sans-serif;
+ }
+
+.ui.borderless.bottommenu.menu {
+  background-color: #333333;
+  box-shadow: none;
+  border: none;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.footer-background {
+  background-color: #000000;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+}
+
+hr {
+  border-color: #EA4B12;
+  background-color: #EA4B12;
+  color: #EA4B12;
+}
+
+.ui.product.four.column.grid.container {
+  background-color: #000000;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.ui.event.three.column.grid.container {
+  background-color: #000000;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.ui.play.four.column.grid.container {
+  background-color: #000000;
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.ui.list div {
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.ui.topbackground.grid {
+  background-image: url("https://magic.wizards.com/sites/mtg/files/I7MSPZSSOD.jpg");
+  height: 1000px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.ui.bottombackground.grid {
+  background-image: url("https://magic.wizards.com/sites/all/themes/wiz_mtg/img/interface/background.jpg");
+  padding-bottom: 13px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.ui.three.column.grid.container {
+
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 72px;
+  margin: 0px 0px 14px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 30px;
+  margin: 10px 0px 0px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.ui.equal.width.grid.container {
+  padding: 40px 0px 100px 0px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+p {
+  color: rgba(255,255,255,0.5);
+  font-size: 12px;
+  margin-left: 775px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.ui.button {
+  color: white;
+  background-color: black;
+  transition-property: color, background-color;
+  transition-duration: .25s;
+  transition-timing-function: ease-in-out;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
